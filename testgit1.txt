@@ -1,3 +1,5 @@
 First Learn GIT
+<<<<<<< HEAD
 add sth
 master add
+dev add
